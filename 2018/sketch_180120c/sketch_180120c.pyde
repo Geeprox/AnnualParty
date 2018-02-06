@@ -1,6 +1,8 @@
 # R: Close auto choose
 # H: Hey
 # J: Close hey
+# C: Completely random
+# V: Close Completely random
 
 import os
 import json
